@@ -1,0 +1,26 @@
+h1
+{
+  font-size: 50pt;
+  margin-bottom : 0px;
+
+}
+button { shape-outside: circle();}
+#lolid
+{
+  width: 50%;
+  border-radius: 100px/50px;
+  background-color: skyblue;
+ text-rendering: optimizeSpeed;
+ text-indent: 10px;
+ text-decoration-style: wavy;
+ text-decoration: underline;
+ text-align: center;
+ text-overflow: clip;
+}
+
+button
+{
+
+  width: 20%;
+  height: 30px;
+}
